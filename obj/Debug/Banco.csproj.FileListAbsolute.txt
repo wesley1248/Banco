@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\Banco\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Banco\Banco\obj\Debug\Banco.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\Banco\Banco\obj\Debug\Banco.pdb
